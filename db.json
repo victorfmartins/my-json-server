@@ -1,9 +1,7 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "tasks": [
+    { "name": "task1", "duration": 1 },
+    { "name": "task2", "duration": 1 },
+    { "name": "task3", "duration": 5 }
+  ]
+}
